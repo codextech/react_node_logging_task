@@ -3,9 +3,14 @@
 
 # Script to setup everything in LINUX
 ```bash
-chmod +x run_dev.sh
+chmod +x run_dev_server.sh
 
-./run_dev.sh
+./run_dev_server.sh
+
+
+chmod +x run_dev_web.sh
+
+./run_dev_web.sh
 
 ```
 
