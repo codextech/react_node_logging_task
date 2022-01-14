@@ -9,7 +9,7 @@ chmod +x run_dev.sh
 
 ```
 
-
+# Manual Commands
 # RUN SERVER
 
 ```bash
@@ -27,6 +27,7 @@ node app.js
 
 npm i
 
+npm start
 
 
 ```
